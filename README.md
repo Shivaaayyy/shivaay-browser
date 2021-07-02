@@ -1,2 +1,2 @@
 # shivaay-browser
-web browser using pyton 
+web browser using python 
